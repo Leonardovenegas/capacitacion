@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testSuites.Prueba" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-04T18:44:47" hostname="LAPTOP-RDHROQHB" time="1.072">
+  <properties/>
+  <testcase name="CPA00001" classname="testSuites.Prueba" time="1.072"/>
+  <system-out><![CDATA[INPUT DE BUSQUEDA DESPLEGADO
+BOTON DE BUSQUEDA DESPLEGADO
+LABEL RESULTADO DESPLEGADO
+RESULTADO: Spheniscidae - Wikipedia, la enciclopedia libre
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
